@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import React, { useState } from 'react';
 import Genres from '../components/genres';
 import NavBar from '../components/navbar';
-
+// pull request
 export default function GenresPage() {
   const [active, setActive] = useState('')
 
